@@ -4,17 +4,15 @@ About me & contact information
 My name is Mycole, pronounced the same as Michael. 
 
 **About me:**
-I am a father to two kids. One 4 year old, and one 2 month old. I married my highschool sweatheart who i have been dating since freshman year. I am currently learning to code in hopes of making a career change. I am a Colorado Native. I currently speak English and German; however, since I can only speak high german, it's pretty weak depending on who I am talking to. I have been to Germany twice, once as an exchange student in high school, and another time I was apart of the first american band to play in the Folksfest parade in Muldorf Am Inn. I am currently learning both spanish and japanese. Outside of work and family I am an active practitioner of Brazilian Jiu-Jitsu at a Gracia Barra school. An interesting fact about me is I use to be a professional magician, and have performed for fortune 500 company parties. 
+I am a sophomore at Southern New Hampshire University to obtain my BS in computer science with a concentration in Software Engineering, and I am going to be a software engineer. I have extensive experience in finance working for an investment firm, advisory firm, and a bank where I still currently work. I hold advanced investment and insurance licenses. I would love to work in a position where my love for coding and finance can combine, but would be overjoyed to work in any industry if it means I get to be a programmer. Outside of work I am a blue belt in Brazilian Jiu-Jitsu and train at a Gracie Barra gym. 
 
 **Accomplishments:**
-As of this writing I have completed:
-  - Some of the code I have been writing can be viewed in my repositories.
-  - A college level JAVA programming course.
-  - The learn Python 3 course on Codecademy. 
+You can see most of what I have been working on in my repositories, but other accomplishments I am proud of are:
+
+* Learned the command line and completed Codecademy's course, afterwards I successfully programmed and ran python programs directly from my terminal without using any IDEs like visual studio code. I also learned about nano and how to configure the environment which I did to both my Mac and Windows computers. 
+* Gained a foundational knowledge of Python by completing the Learn Python 3 course on Codecademy. I used that knowledge to program most of my first repositories which included a program that solves sudoku puzzles uzing a backtracking algorithm, and a rock paper scissors game you can play on your terminal. 
 
 **What I am working on now:**
-  - I am now going through the full-stack engineer course on Codecademy, learning how to code projects from start to finish both front-end and back-end. 
-  - I am also familiarizing myself with RobotFramework and Qweb. 
-  - I am studying for my Security+ Certification.
+  - I am now going through the Computer Science Career Path course on Codecademy.
 
-Potential employers can reach me at mycole.eversole@gmail.com, or at (719) 502-5022. I am NOT willing to relocate. Role must be remote or in Colorado. Due to my current knowledge, back-end development and cyber security positions would be the best fit. 
+Potential employers can reach me at codemycole@gmail.com, or by Linkedin (preferred). 
